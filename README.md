@@ -110,5 +110,6 @@ Todas as threads finalizaram. Sistema encerrado com sucesso.
 ---
 
 ## Autores
-
+Vinícius Oliveira Ramos
+Thiago Costa Soares
 Trabalho desenvolvido para a disciplina de Sistemas Operacionais.
