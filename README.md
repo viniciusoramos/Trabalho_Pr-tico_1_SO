@@ -1,1 +1,1 @@
-# Trabalho_Pr-tico_1_SO
+# Trabalho_Prático_1_SO
